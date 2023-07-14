@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Discord.js, Express.js**
 
-- 🌱 I’m currently learning **React, electron**
+- 🌱 I’m currently learning  **electron and back-end technologies**
 
 - 📫 How to reach me **Amirshayan1381@yahoo.com** but better text me in telegram : **https://t.me/anybodyhearmeornot**
 
