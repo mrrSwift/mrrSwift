@@ -29,13 +29,13 @@
 
 <p align="center">
   <a href="https://github.com/amirzarei007">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirzarei007&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrrSwift&theme=transparent" />
   </a>
   <a href="https://github.com/amirzarei007">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirzarei007&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrSwift&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/amirzarei007">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirzarei007&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrrSwift&theme=transparent" />
   </a>
   <a href="https://github.com/amirzarei007">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirzarei007&langs_count=5&card_width=720&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrSwift&langs_count=5&card_width=720&hide_border=true&theme=transparent" />
