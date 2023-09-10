@@ -15,7 +15,6 @@
 
 - ⚡ What do I do in my free time? **Anime + Dota 2 + Minecraft + learning**
 
-- 🙂 I am really anti social network
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
