@@ -16,7 +16,6 @@
 - ⚡ What do I do in my free time? **Anime + Dota 2 + Minecraft + learning**
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerearth.com/@mr_.swift" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mr_.swift" height="30" width="40" /></a>
