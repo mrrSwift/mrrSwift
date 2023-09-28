@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning  **Electron and Back-end Technologies**
 
-- 📫 How to reach me **Amirshayan1381@yahoo.com** but better text me in telegram : **https://t.me/anybodyhearmeornot**
+- 📫 How to reach me **Amirshayan1381@yahoo.com** but better text me in telegram: **https://t.me/anybodyhearmeornot**
 
 - ⚡ What do I do in my free time? **Anime + Dota 2 + Minecraft + learning**
 
