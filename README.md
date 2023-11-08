@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm amirshayan zarei</h1>
 <h3 align="center">A passionate back-end developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirzarei007&label=Profile%20views&color=0e75b6&style=flat" alt="amirzarei007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirzarei007&label=Profile%20views&color=0e75b6&style=flat" alt="mrrSwift" /> </p>
 
 - 🔭 I’m currently working on **Dpage (Canvas Editor)**
 
