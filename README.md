@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Discord.js, Express.js, Podman(Docker)**
 
-- 🌱 I’m currently learning  **Electron and Back-end Technologies**
+- 🌱 I’m currently learning  **Linux**
 
 - 📫 How to reach me **Amirshayan1381@yahoo.com** but better text me in telegram: **https://t.me/anybodyhearmeornot**
 
