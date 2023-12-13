@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://mr-swift.glitch.me/ ](http://mr-swift.glitch.me/) (Need update)
 
-- 💬 Ask me about **Discord.js, Express.js**
+- 💬 Ask me about **Discord.js, Express.js, Podman(Docker)**
 
 - 🌱 I’m currently learning  **Electron and Back-end Technologies**
 
