@@ -86,9 +86,8 @@
 
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrrSwift&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mrrswift&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrSwift&hide_border=true&card_width=338&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrrswift&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrSwift&hide_border=true&card_width=338&theme=transparent" />
 </div>
 
 
