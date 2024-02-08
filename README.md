@@ -67,8 +67,6 @@
   <img src="https://profile-counter.glitch.me/mrrswift/count.svg?"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrSwift&label=Profile%20views&color=0e75b6&style=flat" alt="mrrSwift" /> </p>
-
 ###
 
 <div align="left">
