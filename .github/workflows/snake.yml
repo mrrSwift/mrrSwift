@@ -9,6 +9,7 @@ on:
   push:
     branches:
     - master
+    - main
 
 jobs:
   generate:
@@ -31,4 +32,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
