@@ -83,8 +83,6 @@
 </div>
 
 <div align="center">
-
-  <a href="https://swiftly.liara.run/"><img src="https://discord.c99.nl/widget/theme-4/497342665067724811.png"></a>
   
   <a href="https://swiftly.liara.run/">Check my work</a>
 </div>
