@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-<h3 align="center">I'm Shayan Zarei Node.js developer and Lua game develop</h1>
+<h3 align="center">I'm Shayan Zarei Node.js developer and Lua game developer</h1>
 
 ###
 
