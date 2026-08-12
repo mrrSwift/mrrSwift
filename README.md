@@ -3,13 +3,6 @@
 
 ###
 
-
-<div>
-  <img style="100%" src="https://www.gitskins.com/api/section/wordmark?username=mrrswift&theme=github-dark"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mrrSwift.mrrSwift&"  />
 </div>
@@ -86,12 +79,3 @@
 <br clear="both">
 
 
-###
-
-<div align="center">
-  <img style="100%" src="https://www.gitskins.com/api/section/projects?username=mrrswift&theme=github-dark"  />
-</div>
-
-
-
-###
