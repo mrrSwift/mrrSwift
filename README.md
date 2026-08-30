@@ -69,12 +69,22 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrrSwift/mrrSwift/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrrSwift/mrrSwift/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrrSwift/mrrSwift/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrrSwift/mrrSwift/output/pacman-contribution-graph.svg">
+  <img alt="city contribution graph" src="https://raw.githubusercontent.com/mrrSwift/mrrSwift/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+  <img alt="city contribution graph" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=12133481862&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=12133481862&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=light">
+  <img alt="city contribution graph" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12133481862&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=dark">
+</picture>
 
 <br clear="both">
 
